@@ -7,4 +7,4 @@ Running the server
 ------------------
 `npm install`
 
-`npm .`
+`node .`
